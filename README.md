@@ -27,8 +27,7 @@ The problem as well as your tasks are described are in `hw1.tex` which is to be 
 
 Feedback from the previous set of students who attempted this assignment is summarized in the accompanying file, `feedback.md`. 
 
-Based on it and our experience in this course with previous hoomework, this homework includes no skeleton code. Bonus ,arks for further tinkering are removed Marks 
-This assignment is a modified version of that assignment. It does not contain skeleton code, and does not award bonus marks for further tinkering.
+Unfortunately, none of it could be adapted for this homework.
 
 # Submission
 
