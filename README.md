@@ -1,5 +1,5 @@
 # Homework 1: Math and JavaScript
-# CS 440 Computer Graphics, Fall 2022
+# CS 440 Computer Graphics, Fall 2023
 -----
 
 # Purpose
@@ -25,9 +25,7 @@ The problem as well as your tasks are described are in `hw1.tex` which is to be 
 
 # Previous Feedback
 
-Feedback from the previous set of students who attempted this assignment is summarized in the accompanying file, `feedback.md`. 
-
-Unfortunately, none of it could be adapted for this homework.
+Feedback from the previous set of students who attempted this assignment is summarized on the accompanying page on Canvas.
 
 # Submission
 
@@ -41,7 +39,7 @@ Each problem specifies the names of the files to be submitted for it. Please mak
 
 This is a __team submission__, i.e. a single submission per team. Your team has a single repository to which each of you will have access. Your team submission will be assigned a __Submission Score__ based on the correctness of the contained solutions.
 
-Deadline: 2359h on Mon, 5 Sep
+Deadline: 2359h on Fri, 8 Sep
 
 ## 1.2 Feedback
 
@@ -49,7 +47,7 @@ You will provide feedback on your team and on the assignment by filling the feed
 
 This is an __individual submission__, i.e. each of you has to fill the form. Doing so contributes to your __Team Factor__ which is 1 by default and is penalized in case of non-submission of the form, dishonest feedback, or unequal contribution to the submission as reported by your buddies and/or the commit history on GitHub.
 
-Deadline: 2359h on Mon, 5 Sep
+Deadline: 2359h on Fri, 8 Sep
 
 ## 1.3 Peer Review
 
@@ -57,7 +55,7 @@ Two submissions will be shared with you for review which you will evaluate accor
 
 This is an __individual submission__ on LMS and contributes to your individual __Review Factor__ which is 1 by default and penalized for non-submission.
 
-Deadline: 2359h on Thu, 8 Sep
+Deadline: 2359h on Tue, 12 Sep
 
 # Grading
 
@@ -70,4 +68,4 @@ Your individual score in this homework is the product of your Submission Score, 
 This is the first assignment. There is a lot to take in and it may seem complicated and daunting. So do not be shy to reach out! In case of confusion or lack of clarity, do not hesitate to contact the course staff. We also encourage you to:
 
 - discuss with your buddy,
-- post in the discussion thread linked in the Assignment module on the course page on Canvas.
+- post in the associated discussion thread on Canvas.
